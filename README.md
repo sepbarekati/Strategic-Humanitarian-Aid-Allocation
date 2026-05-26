@@ -6,7 +6,7 @@ An end-to-end data science pipeline utilizing dimensionality reduction and clust
 This project explores global socio-economic and health disparities using a dataset of 167 countries. By applying standard scaling, Principal Component Analysis (PCA), and K-Means clustering, the global landscape is segmented into distinct development tiers (Developed, Developing, and Underdeveloped). The primary objective is to objectively identify the most vulnerable nations to optimize the allocation of financial, medical, and infrastructural relief.
 
 ## Project Structure
-- `Strategic Humanitarian Aid Allocation.ipynb`: Jupyter notebook containing the full data pipeline, from preprocessing to cluster visualization.
+- `Clustering Analysis for Humanitarian Aid Allocation.ipynb`: Jupyter notebook containing the full data pipeline, from preprocessing to cluster visualization.
 - `Country-data.csv`: The primary dataset used for analysis, featuring metrics like child mortality, GDP per capita, and life expectancy.
 - `Report.pdf`: The final academic summary detailing the methodology, visualizations, and strategic recommendations.
 
